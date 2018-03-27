@@ -1,5 +1,5 @@
 # Minuta
-![](https://i.imgur.com/apvGh0L.png)
+![portadaminuta](https://user-images.githubusercontent.com/32281819/37948013-60b0570e-3164-11e8-85cb-2493c6faf6c4.jpg)
 
 > Creando la experiencia de usuario para la app Minuta.
 
