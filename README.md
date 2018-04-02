@@ -3,7 +3,8 @@ Minuta es una agencia de reclutamiento y selección del personal indicado para t
 
 ![portadaminuta](https://user-images.githubusercontent.com/32281819/37948013-60b0570e-3164-11e8-85cb-2493c6faf6c4.jpg)
 
-## Desarrollado para Minuta y Laboratoria.
+## Desarrollado para 
+Minuta y [Laboratoria](http://www.laboratoria.la/)
 
 ###### Creando la experiencia de usuario para la app Minuta.
 Esta agencia se encuentra en periodo de formación, por lo que está recién creando su aplicación y su website para ingresar al mercado tecnológico.
