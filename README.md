@@ -48,7 +48,6 @@ Google form
 A continuación todas las preguntas y gráficos que están expuestos en este entregable, fueron extraídas de un total de 12 usuarios que fueron los que contestaron.
 
 ![](https://i.imgur.com/ZSMYDM2.png)
-![](https://i.imgur.com/ZSMYDM2.png)
 ![](https://i.imgur.com/PZT7oQL.png)
 ![](https://i.imgur.com/bVqrOw6.png)
 ![](https://i.imgur.com/PEK6lka.png)
