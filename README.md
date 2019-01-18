@@ -183,7 +183,7 @@ Una vez realizado el prototipo final o MVP, fue testeado por última vez para ve
 
 Finalmente este es el prototipo final al cual se llegó como resultado de toda la investigación.
 
-![](https://i.imgur.com/H45DvNG.png)
+![](https://i.imgur.com/ZjFsbL4.png)
 
 [Navegar Prototipo](https://marvelapp.com/31d0adi/screen/39739810)
 
