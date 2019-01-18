@@ -185,7 +185,7 @@ Finalmente este es el prototipo final al cual se llegó como resultado de toda l
 
 ![](https://i.imgur.com/AGolWWZ.png)
 
-[Navegar Prototipo](https://marvelapp.com/31d0adi/screen/39739810)
+[Navegar Prototipo](https://sketch.cloud/s/8pLLa/nRxdYbz/play)
 
 
 
