@@ -3,19 +3,16 @@ Minuta es una agencia de reclutamiento y selección del personal indicado para t
 
 ![portadaminuta](https://user-images.githubusercontent.com/32281819/37948013-60b0570e-3164-11e8-85cb-2493c6faf6c4.jpg)
 
-## Desarrollado para 
-Minuta y [Laboratoria](http://www.laboratoria.la/)
-
-###### Creando la experiencia de usuario para la app Minuta.
-Esta agencia se encuentra en periodo de formación, por lo que está recién creando su aplicación y su website para ingresar al mercado tecnológico.
+#### Creando la experiencia de usuario para la app Minuta.
+Esta agencia de reclutamiento y selección de empleo gastronómico se encuentra en periodo de formación, por lo que está recién creando su aplicación y su website para ingresar al mercado tecnológico.
 
 Minuta, nace en base a una solución a la forma de buscar empleo en el sector gastronómico, por ejemplo, todos los días llega gente buscando trabajo a restaurantes, ellos buscan y encuentran trabajo dependiendo del restaurante donde se dejó cv o de la recomendación del amigo, pero nunca en base a lo que el usuario necesita o quiere. Y viceversa, siempre los restaurantes contratan a esa persona que les fué a dejar el cv pero no tienen la capacidad de buscar lo que ellos quieren y lo que realmente necesitan.
 
-Por lo tanto existen dos actores principales a los que se quiere llegar como público objetivo, en esta agencia:
+Por lo tanto existen dos actores principales o tipos de usuarios a los que se quiere llegar como público objetivo del negocio:
 
 1.- Los usuarios que trabajan en el sector gastronómico y que necesitan constantemente buscar trabajo en esta área.
 
-2.- Las empresas reclutadoras de personal (restaurantes y bares) que necesiten trabajadores aptos y con experiencia en el rubro.
+2.- Las empresas reclutadoras de personal (restaurantes, bares, hoteles, etc.) que necesiten trabajadores aptos y con experiencia en el rubro.
 
 ## CREANDO LA EXPERIENCIA MINUTA
 Proceso de diseño
@@ -39,9 +36,10 @@ La información proveniente de amigos y parientes es la más precisa y detallada
 
 Según este informe de Adecco podemos concluir que el mercado laboral a tenido su auge este último tiempo, donde el canal principal para conseguir empleo para la mayoría de las personas, es internet, sobre todo las redes sociales, en este punto en específico es donde se quiere llegar, con una plataforma que sea capaz de ser un canal o un puente, para comunicar al usuario que busca conseguir un empleo, con la empresa que necesita contratar trabajadores del área gastronómica.
 Por otra parte las empresas son las que más hacen uso de  la web al momento de buscar y reclutar a sus trabajadores, ya que se ha demostrado que 9 de cada 10 empresas (87%) buscan a sus empleados o a sus trabajadores por medio de esta. 
-También podemos concluir que el número de usuarios que ponen a disposición de la web su cv a aumentado de manera significativa llegando hasta un 76% este último año, lo que significa que los usuarios si necesitan lugares o instancias para poder mostrarse de manera digital en la web y a través de este medio indagaremos para poder crear un producto que sea acorde a sus necesidades.
+También podemos concluir que el número de usuarios que ponen a disposición de la web su cv a aumentado de manera significativa llegando hasta un 76% este último año, lo que significa que los usuarios si necesitan lugares o instancias para poder mostrarse de manera digital en la web y a través de la tecnología.
 
 ## Encuesta
+
 Se realizó una encuesta con diferentes preguntas, con la finalidad de dar una idea de la situación actual que enfrentan los usuarios.
 Para esta fase del proceso de investigación se utilizó la herramienta:
 Google form
@@ -108,7 +106,7 @@ Las que podemos ver a continuación:
 - ¿De todo lo que hemos conversado te gustaría agregar algo más?
 [Muchas gracias por tu tiempo]
 
-Durante la entrevista  se entrevistaron a personas que trabajan en este rubro trabajadores y también personas reclutadoras de personal, estas fueron algunas de las personas entrevistadas:
+Se entrevistaron a personas que trabajan en este rubro trabajadores y también personas reclutadoras de personal, estas fueron algunas de las personas entrevistadas:
 
 ![](https://i.imgur.com/HbflrGN.png)
 
@@ -118,7 +116,7 @@ A través de las entrevistas y de las observaciones que se hicieron a partir de 
 
 En el area gastronomica hay dos formas de llegar a trabajar la primera es a través del cv impreso en papel que ya está obsoleto y la otra forma es a través de las recomendaciones realizadas por amigos, familiares, etc. Estas personas son las más privilegiadas al momento de conseguir un empleo, ya que no pasan por ningún filtro de selección, llegan y entran a trabajar recomendadas, pero ¿qué pasa con esa persona que de verdad necesita ese trabajo pero que no tiene el “contacto” como para poder trabajar en el restaurante que desea? Esa persona no tiene las mismas oportunidades, esa persona recorrió horas los distintos recintos gastronómicos dejando su currículum para tener la esperanza de que lo llamen. Por eso hacer una plataforma que tenga cabida para el reclutamiento y la selección de personal para el área gastronómica es indispensable en el siglo en el que estamos.
 
-Entendí también que el proceso de selección de esta área en particular se ha ido quedando atrás durante este último tiempo, e incluso hay empresas gastronómicas donde no existen procesos de selección. El problema es que la forma de buscar empleo en el sector gastronómico es la más antigua y arcaica que hay, es un mercado que crece todos los días a pasos agigantados, donde todo los días se abre un restaurante nuevo, donde todos los días  hay un chef más conocido en Chile, donde todos los días llegan más extranjeros, que tienen mucho que aportar con respecto a su gastronomía. Es por eso que debemos estar al tanto de las nuevas tendencias en gastronomía y también de las nuevas tecnologías, que no podemos dejar de lado. Este mercado y por sobre todo los procesos de selección deben ir evolucionando paralelamente al proceso de crecimiento de la tecnología, estamos en una era digital que va avanzado de forma muy rápida y no podemos ir quedándonos atrás, este mercado necesita avanzar en conjunto para poder entregar recursos importantes que aporten valor al movimiento que se está generando hoy en día en la industria gastronómica.
+Entendí también que el proceso de selección de esta área en particular se ha ido quedando atrás durante este último tiempo, e incluso hay empresas gastronómicas donde no existen procesos de selección. El problema es que la forma de buscar empleo en el sector gastronómico es la más antigua que hay, en un mercado que crece todos los días a pasos agigantados, donde todo los días se abre un restaurante nuevo, donde todos los días  hay un chef más conocido en Chile, donde todos los días llegan más extranjeros, que tienen mucho que aportar con respecto a su gastronomía. Es por eso que debemos estar al tanto de las nuevas tendencias en gastronomía y también de las nuevas tecnologías, que no podemos dejar de lado. Este mercado y por sobre todo los procesos de selección deben ir evolucionando paralelamente al proceso de crecimiento de la tecnología, estamos en una era digital que va avanzado de forma muy rápida y no podemos ir quedándonos atrás, este mercado necesita avanzar en conjunto para poder entregar recursos importantes que aporten valor al movimiento que se está generando hoy en día en la industria gastronómica.
 
 Con respecto a las empresas gastronómicas, ¿cuál es la forma para que ellos puedan encontrar lo que ellos quieran cuando necesitan gente?, es a través de las típicas bolsas de empleo que existen hoy, como laborum, Chiletrabajos, jobrapido etc, pero ¿qué te sale en estas bolsas? 200 currículums que quizas nunca es la gente que los restaurantes necesitan y postula gente que no tiene ninguna experiencia cuando las empresas si necesitan experiencia, entonces la pérdida de tiempo que se genera en esto es enorme.
 
@@ -146,7 +144,7 @@ De esta manera estamos acotando y sintetizando toda la investigación realizada 
 
 Minuta por otra parte, es una solución de recursos humanos porque hace reclutamiento y selección, es decir es un puente entre estos dos actores principales: el usuario que va a ser quien busca trabajo en este caso el candidato  y el cliente que va a ser la empresa, el restaurante.
 Sin ninguno de estos dos actores esta plataforma no podría existir, ¿cuál es la idea? que estos dos actores se encuentren mutuamente en base a sus preferencias y su perfil, esto estará enfocado en base a tiempo, disponibilidad, geolocalización, horarios, que son los parámetros más importantes, también se decidió hacer una búsqueda en tiempo real, que no es simplemente buscar y postular, eso quiere decir que si tu necesitas trabajo para hoy en la noche porque necesitas el dinero o quizas estas en la playa de vacaciones y quieres trabajar, tu ingresas a la app y vas a encontrar el trabajo que necesitas.
-y ¿porqué se da esto? porque muchas veces los restaurantes tienen necesidades por ejemplo les falta un copero y de donde lo vas a sacar, en esta aplicación lo encontrarás en tiempo real y así viceversa si la gente va a caminando por la calle le va a avisar al usuario que es compatible con este restaurante.
+y ¿porqué se da esto? porque muchas veces los restaurantes tienen necesidades por ejemplo les falta un copero ¿y donde lo van a encontrar?, en esta aplicación lo encontrarán en tiempo real y así viceversa si la gente va caminando por la calle la app le va a notificar al usuario que es compatible con este restaurante.
 
 **El valor principal que entregará y cómo se diferenciará  del resto es el tiempo real, Minuta será un match donde tu vas a encontrar lo que tu necesitas y si tu necesitas buscar trabajo o contratar gente con urgencia lo podrás hacer.**
 
@@ -157,8 +155,6 @@ Por medio de la tecnología, que va a tener dos plataformas principales:
 1. La aplicación para el usuario: El usuario va a ser el que busca el trabajo y lo va a poder hacer desde su celular, a través de una app mobile.
 2. La página web estará hecha 100% enfocada a la empresa o cliente, la página será igual de importante que la aplicación.
 
-
-El modelo de negocios es cobrarle al cliente(restaurantes), de ahí es donde se sacará el dinero, para la fuente de ingresos. Porque se entiende que nadie por querer trabajar va a pagar por una aplicación, pero si el cliente que es el que pagará para reclutar a su personal.
 **
 *Es importante mencionar que:*
 **
