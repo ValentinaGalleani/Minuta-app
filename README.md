@@ -178,10 +178,10 @@ En el test de usuarios se les encargó a las personas que realicen la acción de
 
 Una vez realizado el prototipo final o MVP, fue testeado por última vez para verificar que todo esté resultando bien con nuestra plataforma, con el objetivo de ver si funciona de manera correcta la app y así fué, todos los usuarios pudieron realizar con éxito la misión otorgada.
 
-![](https://i.imgur.com/vZPUyXc.png)
+![](https://i.imgur.com/HwN9JU2.png)
 
 
-Finalmente este es el prototipo final o producto mínimo viable al cual se llegó como resultado de toda la investigación.
+Finalmente este es el prototipo final al cual se llegó como resultado de toda la investigación.
 
 ![](https://i.imgur.com/H45DvNG.png)
 
